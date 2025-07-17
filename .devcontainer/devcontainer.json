@@ -1,4 +1,5 @@
 {
   "name": "stock-market-ai",
+  "postCreateCommand": "pip install -r requirements.txt",
   "onCreateCommand": "echo ready"
 }

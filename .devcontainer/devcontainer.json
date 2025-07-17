@@ -1,0 +1,4 @@
+{
+  "name": "stock-market-ai",
+  "onCreateCommand": "echo ready"
+}
